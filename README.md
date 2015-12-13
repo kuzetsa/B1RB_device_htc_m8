@@ -1,6 +1,12 @@
-# Device configuration for HTC One (M8)
+# B1RB android modifications (based on cyanogenmod)
 
-## Spec Sheet
+**see also:**
+
+### [B1RB_htc_msm8974, the repo for kernel B1RB changes](https://github.com/kuzetsa/B1RB_htc_msm8974)
+
+## Device configuration for HTC One (M8)
+
+### Spec Sheet
 
 | Feature                 | Specification                     |
 | :---------------------- | :-------------------------------- |
@@ -18,11 +24,11 @@
 | Release Date            | March 2014                        |
 
 
-## Device Picture
+### Device Picture
 
 ![HTC One M8](http://wiki.cyanogenmod.org/images/thumb/5/55/M8.png/292px-M8.png "HTC One M8")
 
-## Copyright
+### Copyright
 
 ```
 #
